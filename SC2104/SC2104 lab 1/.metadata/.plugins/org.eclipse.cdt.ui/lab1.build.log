@@ -1,0 +1,8 @@
+21:37:16 **** Incremental Build of configuration Debug for project lab1 ****
+make -j16 all 
+make: stat: ../Core/Startup/startup_stm32f407vetx.s: Permission denied
+make: *** No rule to make target '../Core/Startup/startup_stm32f407vetx.s', needed by 'Core/Startup/startup_stm32f407vetx.o'.  Stop.
+"make -j16 all" terminated with exit code 2. Build might be incomplete.
+
+21:37:16 Build Failed. 1 errors, 0 warnings. (took 189ms)
+
